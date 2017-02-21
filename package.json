@@ -1,12 +1,12 @@
 {
-  "name": "react-nodejs-learn",
+  "name": "node-react",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "htt",
+  "author": "RodgerLai refer-htt",
   "license": "ISC",
   "dependencies": {
     "babel-loader": "^6.2.4",

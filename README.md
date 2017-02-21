@@ -1,4 +1,4 @@
-# React-Nodejs-Project-Quickly-Start
+# node-react
 从零开始 - 使用React+Webpack+Nodejs+Express快速构建项目
 
 ## 前言
